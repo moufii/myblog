@@ -7,6 +7,6 @@ some content `YEAR-MONTH-DAY-title.MARKUP`
 ```
 bundle install
 ```
-Symbol | Uses
-
-
+Features | Supported | Notes 
+-------- | --------- | -----
+hiii     |  12       | mkmm
